@@ -12,3 +12,17 @@ A simple Python-based tool that assesses the strength of a password based on len
    ```bash
    git clone https://github.com/yourusername/password-strength-checker.git
    cd password-strength-checker
+   
+2.Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+3.Run the tool:
+
+bash
+Copy
+Edit
+python password_strength.py
